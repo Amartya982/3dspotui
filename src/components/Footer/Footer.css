@@ -1,0 +1,36 @@
+.footer-section {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+  }
+  
+  
+  .footer-icon {
+    position: absolute;
+    text-align: center;
+    display: flex;
+    z-index: 1;
+  }
+  
+
+
+  
+
+
+  .social-icons {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 250px;
+    margin-left: auto;
+    margin-right: 30px;
+    margin-top: 50px;
+    top: 0;
+   
+  }
+  
+  #footer-icons {
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+  }
