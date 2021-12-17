@@ -1,7 +1,7 @@
 import React from "react";
 
 import "./Footer.css";
-import logo from "../../assets/images/a.png";
+
 import {
     FaInstagram,
     FaYoutube,
